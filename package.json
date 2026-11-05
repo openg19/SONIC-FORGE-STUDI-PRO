@@ -1,0 +1,9 @@
+{
+  "name": "sonicforge-studio-pro-web",
+  "version": "1.5.0",
+  "private": true,
+  "description": "SonicForge Studio Pro \u2014 Web & Android PWA Edition (Ready for Vercel)",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
